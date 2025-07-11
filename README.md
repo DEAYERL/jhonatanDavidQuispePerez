@@ -1,6 +1,5 @@
 
-# 👋 ¡Hola! Soy  
-# **Jhonatan David Quispe Pérez**
+# 👋 ¡Hola! Soy **Jhonatan David Quispe Pérez**
 
 🎓 Estudio la carrera de **Ingeniería Informática**.
 
